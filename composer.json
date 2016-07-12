@@ -1,0 +1,5 @@
+{
+    "require": {
+        "clue/ssdp-react": "dev-master"
+    }
+}
