@@ -1,4 +1,5 @@
 <?php
+die();
 use Clue\React\Ssdp\Client;
 
 require __DIR__ . '/vendor/autoload.php';
